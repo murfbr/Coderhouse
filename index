@@ -1,1 +1,26 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dados Pessoais</title>
+</head>
+<body>
+    <!--Comentário-->
+    <h1>Dados Pessoais</h1>
+    <h2>Nome:</h2>
+    <h3>Gustavo</h3>
+    <h2>Data de nascimento:</h2>
+    <h3>04/06/1985</h3>
+    <h2>Profissão</h2>
+    <h3>Programador <i>No-code</i></h3>
+    <h2>Hobbies</h2>
+    <h3>Livros Sci-fi, video game e <font color="blue"><b>corrida de rua</b></font></h3>
+    <hr>
+    <h4>Teste de outro tipo de texto <br>
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem, reiciendis.</h4>
+    <font color="red"> Teste de cor </font>
+
+</body>
+</html>
